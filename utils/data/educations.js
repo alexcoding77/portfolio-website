@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor of Science in Computer Science",
-    duration: "2014 - 2018",
-    institution: "Yerevan State University",
+    duration: "2017 - 2021",
+    institution: "University of Belgrade",
   },
   {
     id: 2,
     title: "High School Diploma",
-    duration: "2010 - 2014",
-    institution: "Anania Shirakatsi Lyceum",
+    duration: "2013 - 2017",
+    institution: "Mathematical Grammar School, Belgrade",
   },
   {
     id: 3,
     title: "Middle School",
-    duration: "2004 - 2010",
-    institution: "Yerevan Basic School No. 132",
+    duration: "2007 - 2013",
+    institution: "Elementary School Vladislav Ribnikar, Belgrade",
   }
 ];
