@@ -9,7 +9,7 @@ function Navbar() {
           <Link
             href="/"
             className=" text-[#16f2b3] text-3xl font-bold">
-            SHOGHIK MARTIROSYAN
+            Novak Isakov
           </Link>
         </div>
 
