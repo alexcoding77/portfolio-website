@@ -1,8 +1,8 @@
 const path = require('path');
 
 module.exports = {
-  basePath: "/porfolio-website",
-  assetPrefix: '/porfolio-website/',
+  basePath: "/portfolio-website",
+  assetPrefix: '/portfolio-website/',
   output: "export", // Enables static exports
   reactStrictMode: true,
   sassOptions: {
