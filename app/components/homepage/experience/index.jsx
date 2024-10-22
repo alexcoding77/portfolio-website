@@ -11,7 +11,7 @@ function Experience() {
   return (
     <div id="experience" className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]">
       <Image
-        src="/developer-portfolio/section.svg"
+        src="/porfolio-website/section.svg"
         alt="Hero"
         width={1572}
         height={795}
@@ -43,7 +43,7 @@ function Experience() {
                   <GlowCard key={experience.id} identifier={`experience-${experience.id}`}>
                     <div className="p-3 relative">
                       <Image
-                        src="/developer-portfolio/blur-23.svg"
+                        src="/porfolio-website/blur-23.svg"
                         alt="Hero"
                         width={1080}
                         height={200}
